@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.match-card-container {
+  width: 220px;
+  max-height: 400px;
+  margin: 10px;
+}
+
+.card {
+  background-color: #1e293b;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.competing-logo {
+  width: 60px;
+  height: 90px;
+}
+
+.team {
+  font-size: 16px;
+  text-align: center;
+}
+
+.result {
+  font-size: 13px;
+  text-align: center;
+}
+
+.red {
+  font-size: 16px;
+  color: red;
+}
+
+.green {
+  font-size: 16px;
+  color: green;
+}

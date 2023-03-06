@@ -1,0 +1,48 @@
+/* Write your CSS here */
+
+* {
+  font-family: 'Bree Serif';
+  color: white;
+}
+
+.latestMatch-container {
+  background-color: #1e293b;
+  background-size: cover;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.competing-team {
+  font-size: 26px;
+  text-align: start;
+}
+
+.date {
+  font-size: 18px;
+  text-align: start;
+}
+
+.remain {
+  font-size: 13px;
+  text-align: start;
+}
+
+.competing-team-logo {
+  width: 35%;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.date2 {
+  font-size: 18px;
+  text-align: end;
+}
+
+.remain2 {
+  font-size: 13px;
+  text-align: end;
+}

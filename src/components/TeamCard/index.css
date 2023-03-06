@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.item-container {
+  background-color: #ffffff20;
+  border-width: 0px;
+  border-color: transparent;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  width: 350px;
+  height: 130px;
+}
+
+.team-logo {
+  width: 50px;
+  height: 60px;
+}
+
+.team-name {
+  color: white;
+  font-size: 20px;
+}
+
+.item-link {
+  text-decoration: none;
+  cursor: pointer;
+}

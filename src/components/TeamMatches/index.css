@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.app-container {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  background-size: cover;
+  padding: 10px;
+  min-height: 100vh;
+}
+
+.team-banner {
+  width: 100%;
+}
+
+.match-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
